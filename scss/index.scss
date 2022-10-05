@@ -45,7 +45,7 @@ main {
   width: 100%;
   display: grid;
   place-items: center;
-  span {
+  .price {
     display: flex;
     flex-direction: row;
     align-items: center;

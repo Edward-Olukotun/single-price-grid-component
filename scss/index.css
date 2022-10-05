@@ -48,7 +48,7 @@ main {
   display: grid;
   place-items: center;
 }
-.middle span {
+.middle .price {
   display: flex;
   flex-direction: row;
   align-items: center;
